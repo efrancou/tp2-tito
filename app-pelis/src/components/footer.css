@@ -1,0 +1,10 @@
+.footer-cont {
+    background-color: beige;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .footer-text {
+    text-align: center;
+    font-size: 20px!important;
+    color: black!important;
+  }
